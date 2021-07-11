@@ -1,1 +1,5 @@
-[{"url":"https://demo.uhst.io/", "prefix":"0001","offset":-4},{"url":"https://nl.uhst.io/", "prefix":"0002","offset":2},{"url":"https://hk.uhst.io/", "prefix":"0003","offset":8}]
+[
+  { "urls": ["https://demo.uhst.io/"], "prefix": "0001", "offset": -4 },
+  { "urls": ["https://nl.uhst.io/"], "prefix": "0002", "offset": 2 },
+  { "urls": ["https://hk.uhst.io/"], "prefix": "0003", "offset": 8 }
+]
