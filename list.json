@@ -1,4 +1,5 @@
 [
+  { "urls": ["https://sj-arm1a.uhst.io/"], "prefix": "1408"},
   { "urls": ["https://demo.uhst.io/"], "prefix": "0001"},
   { "urls": ["https://nl.uhst.io/"], "prefix": "0002"},
   { "urls": ["https://hk.uhst.io/"], "prefix": "0003"}
