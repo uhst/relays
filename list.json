@@ -2,6 +2,7 @@
   { "urls": ["https://sj-arm1a.uhst.io/"], "prefix": "1408"},
   { "urls": ["https://sj-arm2a.uhst.io/"], "prefix": "1669"},
   { "urls": ["https://sj1.uhst.io/", "https://sj1-cf.uhst.io/"], "prefix": "1510"},
+  { "urls": ["https://sj2.uhst.io/", "https://sj2-cf.uhst.io/"], "prefix": "1415"},
   { "urls": ["https://ny.uhst.io/"], "prefix": "1716"},
   { "urls": ["https://nl.uhst.io/"], "prefix": "0002"},
   { "urls": ["https://hk.uhst.io/"], "prefix": "0003"}
