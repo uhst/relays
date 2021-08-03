@@ -5,5 +5,5 @@
   { "urls": ["https://sj2.uhst.io/"], "prefix": "1415"},
   { "urls": ["https://ny.uhst.io/"], "prefix": "1716"},
   { "urls": ["https://nl.uhst.io/"], "prefix": "3150"},
-  { "urls": ["https://hk.uhst.io/"], "prefix": "0003"}
+  { "urls": ["https://hk.uhst.io/", "https://hk-cf.uhst.io/"], "prefix": "8520"}
 ]
