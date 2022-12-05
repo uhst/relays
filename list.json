@@ -1,6 +1,6 @@
 [
   { "urls": ["https://sj-arm1a.uhst.io/"], "prefix": "1408"},
-  { "urls": ["https://sj-arm2a.uhst.io/"], "prefix": "1669"},
+  { "urls": ["https://la.uhst.io/"], "prefix": "1669"},
   { "urls": ["https://sj1.uhst.io/"], "prefix": "1510"},
   { "urls": ["https://sj2.uhst.io/"], "prefix": "1415"},
   { "urls": ["https://ny.uhst.io/"], "prefix": "1716"},
