@@ -1,10 +1,8 @@
 [
   { "urls": ["https://sj-arm1a.uhst.io/"], "prefix": "1408"},
-  { "urls": ["https://la.uhst.io/"], "prefix": "1669"},
   { "urls": ["https://sj1.uhst.io/"], "prefix": "1510"},
   { "urls": ["https://sj2.uhst.io/"], "prefix": "1415"},
   { "urls": ["https://ny.uhst.io/"], "prefix": "1716"},
   { "urls": ["https://nl.uhst.io/"], "prefix": "3150"},
-  { "urls": ["https://hk.uhst.io/", "https://hk-cf.uhst.io/"], "prefix": "8520"},
-  { "urls": ["https://za.uhst.io/", "https://za-cf.uhst.io/"], "prefix": "2711"}
+  { "urls": ["https://hk.uhst.io/", "https://hk-cf.uhst.io/"], "prefix": "8520"}
 ]
